@@ -1,4 +1,0 @@
-class cis
-{
-public static void main()
-}
